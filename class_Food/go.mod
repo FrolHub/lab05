@@ -1,2 +1,2 @@
-module github.com/12VoVkA21/food
-go 1.22.2
+module github.com/FrolHub/lab05/food
+go 1.24.3
